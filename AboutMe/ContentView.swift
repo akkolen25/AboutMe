@@ -30,7 +30,7 @@ struct ContentView: View {
                         .font(.title2)
                         .fontWeight(.semibold)
                     Button("More About Me") {
-                        aboutMe = "Hey! Some of my hobbies include playing tennis, and being on the speech and debate team at my school. Recently, I've been obsessed with the show the Summer I Turned Pretty and have become an emerging Swiftie!"
+                        aboutMe = "Hey! Some of my hobbies include playing tennis, and being on the speech and debate team at my school. Recently, I've been obsessed with the show the Summer I Turned Pretty and have become an emerging Swiftie! 💖"
                     }
                     .padding()
                     .foregroundColor(/*@START_MENU_TOKEN@*/Color(hue: 0.839, saturation: 1.0, brightness: 1.0)/*@END_MENU_TOKEN@*/)
